@@ -10,3 +10,4 @@ duckduckgo-search
 pytrends
 pillow
 typer
+openpyxl
