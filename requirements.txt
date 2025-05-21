@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+transformers
+gtts
+fpdf
+markdown
+beautifulsoup4
+duckduckgo-search
+pytrends
+pillow
+typer
