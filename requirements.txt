@@ -11,3 +11,4 @@ pytrends
 pillow
 typer
 openpyxl
+torch
